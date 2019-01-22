@@ -1,0 +1,50 @@
+22.01.2019 03:45:34
+Error (1366) Incorrect integer value: '' for column 'id' at row 1
+INSERT INTO ok_variants SET sku='12313', id='', name='Красный', price='123.00', compare_price='123.00', currency_id='2', weight='0.00', stock=NULL, units='123', feed='0', product_id='110'
+----------------------
+
+22.01.2019 03:48:43
+Error (1366) Incorrect integer value: '' for column 'id' at row 1
+INSERT INTO ok_variants SET sku='12313', id='', name='Красный', price='123.00', compare_price='123.00', currency_id='2', weight='0.00', stock=NULL, units='123', feed='0', product_id='110'
+----------------------
+
+22.01.2019 03:49:10
+Error (1366) Incorrect integer value: '' for column 'id' at row 1
+INSERT INTO ok_variants SET sku='12313', id='', name='Красный', price='123.00', compare_price='123.00', currency_id='2', weight='0.00', stock=NULL, units='123', feed='0', product_id='110'
+----------------------
+
+22.01.2019 03:50:12
+Error (1366) Incorrect integer value: '' for column 'id' at row 1
+INSERT INTO ok_variants SET sku='12313', id='', name='Красный', price='123.00', compare_price='123.00', currency_id='2', weight='0.00', stock=NULL, units='123', feed='0', product_id='110'
+----------------------
+
+22.01.2019 03:50:56
+Error (1366) Incorrect integer value: '' for column 'id' at row 1
+INSERT INTO ok_variants SET sku='12313', id='', name='Красный', price='123.00', compare_price='123.00', currency_id='2', weight='0.00', stock=NULL, units='123', feed='0', product_id='110'
+----------------------
+
+22.01.2019 03:52:21
+Error (1366) Incorrect integer value: '' for column 'id' at row 1
+INSERT INTO ok_variants SET sku='12313', id='', name='Красный', price='123.00', compare_price='123.00', currency_id='2', weight='0.00', stock=NULL, units='123', feed='0', product_id='110'
+----------------------
+
+22.01.2019 03:54:06
+Error (1366) Incorrect integer value: '' for column 'id' at row 1
+INSERT INTO ok_variants SET sku='12313', id='', name='Красный', price='123.00', compare_price='123.00', currency_id='2', weight='0.00', stock=NULL, units='123', feed='0', product_id='110'
+----------------------
+
+22.01.2019 03:54:06
+Error (1048) Column 'attachment' cannot be null
+UPDATE ok_variants SET attachment=NULL WHERE id=113 LIMIT 1
+----------------------
+
+22.01.2019 03:55:43
+Error (1048) Column 'attachment' cannot be null
+UPDATE ok_variants SET attachment=NULL WHERE id=114 LIMIT 1
+----------------------
+
+22.01.2019 03:55:46
+Error (1048) Column 'attachment' cannot be null
+UPDATE ok_variants SET attachment=NULL WHERE id=115 LIMIT 1
+----------------------
+
